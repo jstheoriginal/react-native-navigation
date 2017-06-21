@@ -9,7 +9,7 @@ const tabs = [{
     label: 'Navigation',
     screen: 'example.Types',
     icon: require('../img/list.png'),
-    title: 'Navigation Types',
+    title: 'Broken Tab Bar Example',
 }, {
     label: 'Actions',
     screen: 'example.Actions',
